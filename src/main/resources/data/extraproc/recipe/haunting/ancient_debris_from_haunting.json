@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:ancient_debris",
+      "chance": 0.333
+    }
+  ]
+}
