@@ -16,7 +16,8 @@
   ],
   "results": [
     {
-      "id": "minecraft:netherrack"
+      "id": "minecraft:netherrack",
+      "count": 2
     }
   ],
   "heat_requirement": "heated"
