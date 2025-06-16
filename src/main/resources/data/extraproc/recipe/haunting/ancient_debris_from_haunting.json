@@ -7,8 +7,28 @@
   ],
   "results": [
     {
+      "id": "minecraft:obsidian",
+      "chance": 0.30
+    },
+    {
       "id": "minecraft:ancient_debris",
-      "chance": 0.0333
+      "chance": 0.16
+    },
+    {
+      "id": "minecraft:coal_block",
+      "chance": 0.12
+    },
+    {
+      "id": "create:obsidian_dust",
+      "chance": 0.05
+    },
+    {
+      "id": "minecraft:coal",
+      "chance": 0.05
+    },
+    {
+      "id": "minecraft:charcoal",
+      "chance": 0.02
     }
   ]
 }
