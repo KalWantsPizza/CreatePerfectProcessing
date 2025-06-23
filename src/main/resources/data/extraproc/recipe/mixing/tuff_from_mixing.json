@@ -2,11 +2,15 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "count": 2,
       "item": "minecraft:andesite"
     },
     {
-      "count": 2,
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:diorite"
+    },
+    {
       "item": "minecraft:diorite"
     },
     {
