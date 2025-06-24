@@ -1,25 +1,16 @@
+# Create: Perfect Processing!
 
-Installation information
-=======
+An additional recipe mod for Create on 1.21.1; for use in a community update for Mr. Beardstone's Create: Perfect World 2 patreon server. This features recipes for generating non-renewable blocks using create, and enhancements to existing block recipes.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+### Recipe Examples
+* Asurine, Crimsite, Ochrum, and Veridium similar to crafting Andesite
+* Renewable Netherrack, Deepslate, Tuff, Lapis, Phantom Membranes, Diamonds (it's complicated!), and Ancient Debris
+* Chance to crush Limestone and Scoria for copper and zinc nuggets, respectively
+* Can be used in a Skyblock to automate all the things!
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+#### Credits
+* Mr. Beardstone for his amazing Perfect World 2: More Perfecter modpack
+* The PW2 Server Council (Dragonll237, gunhippy, Doppel_R, EsmeTH) for recipe collaboration
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+This mod is a successor 1.21.1 to Create Skyblock Tweaks.
