@@ -1,0 +1,13 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff"
+    }
+  ],
+  "processing_time": 200,
+  "results": [
+    {
+    }
+  ]
+}
