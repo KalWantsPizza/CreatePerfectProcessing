@@ -11,7 +11,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "create:scorchia"
+      "tag": "create:stone_types/scorchia"
     }
   ],
   "processingTime": 250,
