@@ -5,9 +5,6 @@
       "item": "minecraft:gravel"
     },
     {
-      "item": "minecraft:gravel"
-    },
-    {
       "tag": "c:nuggets/copper"
     },
     {
@@ -37,7 +34,7 @@
   "results": [
     {
       "id": "create:veridium",
-      "count": 2
+      "count": 1
     }
   ]
 }
