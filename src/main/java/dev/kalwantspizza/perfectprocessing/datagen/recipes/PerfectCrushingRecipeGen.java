@@ -169,7 +169,7 @@ public class PerfectCrushingRecipeGen extends CrushingRecipeGen {
 
         RECYCLE_SOPHISTICATED_SPECIAL_UPGRADES = create("recycling/sophisticated/special_upgrades", b -> b
                 .duration(300)
-                .require(ItemTags.SOPHISTICATED_NORMAL_UPGRADES)
+                .require(ItemTags.SOPHISTICATED_SPECIAL_UPGRADES)
                 .output(0.45f, ModItems.UPGRADE_BASE.get(), 1)
                 .output(Items.NETHER_STAR, 1)
                 .output(0.45f, Items.ENDER_EYE, 2)

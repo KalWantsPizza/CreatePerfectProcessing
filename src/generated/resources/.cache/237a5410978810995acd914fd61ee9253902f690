@@ -1,4 +1,4 @@
-// 1.21.1	2026-07-23T07:28:14.0404393	perfectprocessing's processing recipes: crushing
+// 1.21.1	2026-08-03T11:59:30.1951484	perfectprocessing's processing recipes: crushing
 edb0bc3660221310a918800f32f834a1491695a0 data/perfectprocessing/recipe/crushing/content/cobbled_deepslate_from_deepslate.json
 94f23aa519cc5691bf587d6f051e5413373abc56 data/perfectprocessing/recipe/crushing/content/compat/creatingspace/nickel_nugget_from_scorchia.json
 973bed9ef2fd39604b28bb7e68fafbb56f004eda data/perfectprocessing/recipe/crushing/content/compat/northstar/rutile_concentrate_from_limestone.json
@@ -54,4 +54,4 @@ b1a095b582d9eb6b0d7fe9f57a43f5b76bd0ca69 data/perfectprocessing/recipe/crushing/
 bac7ab6147aa77df6123ad486848cd1e437ef7d4 data/perfectprocessing/recipe/crushing/recycling/sophisticated/backpacks.json
 dfaf3174841a693913e1a8b3c81705fe4a8407ac data/perfectprocessing/recipe/crushing/recycling/sophisticated/backpacks_value.json
 1587a981a6eab183f0bb0b00d685aeba982781f8 data/perfectprocessing/recipe/crushing/recycling/sophisticated/normal_upgrades.json
-f6171dda5d263c3e09c94152c6ed31443e7297ba data/perfectprocessing/recipe/crushing/recycling/sophisticated/special_upgrades.json
+db472b2be48b434c4e859ed0896d0d5b2198fea9 data/perfectprocessing/recipe/crushing/recycling/sophisticated/special_upgrades.json

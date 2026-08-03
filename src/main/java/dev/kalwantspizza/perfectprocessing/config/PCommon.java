@@ -23,18 +23,23 @@ public class PCommon extends ConfigBase {
         booleanFlags.put("zincCrushing", gems.ZincCrushing);
         modeFlags.put("ancientDebrisRecipe", gems.AncientDebrisRecipe);
         modeFlags.put("diamondRecipe", gems.DiamondRecipe);
+
         booleanFlags.put("crushingDeepslate", blocks.crushingDeepslate);
         booleanFlags.put("compactResource", blocks.compactResource);
         booleanFlags.put("fillDecorative", blocks.fillDecorative);
         booleanFlags.put("mixingProduce", blocks.mixingProduce);
         booleanFlags.put("spongeDupe", blocks.spongeDupe);
         booleanFlags.put("legacyCasings", casings.legacyCasings);
+        booleanFlags.put("pawOxidize", blocks.pawOxidize);
+        booleanFlags.put("hoeDirt", blocks.dirtHoe);
+
         booleanFlags.put("enderEyePolishing", items.enderEyePolishing);
         booleanFlags.put("magmaCreamHaunting", items.magmaCreamHaunting);
         booleanFlags.put("phantomMembraneHaunting", items.phantomMembraneHaunting);
         booleanFlags.put("powderedObsidianCrushing", items.powderedObsidianCrushing);
         booleanFlags.put("powderedSnowBucketDeploying", items.powderedSnowBucketDeploying);
         booleanFlags.put("rutileConcentrateCrushing", items.rutileConcentrateCrushing);
+
         booleanFlags.put("armour", recycling.armour);
         booleanFlags.put("copycats", recycling.copycats);
         booleanFlags.put("sophisticatedBackpacks", recycling.sophisticatedBackpacks);

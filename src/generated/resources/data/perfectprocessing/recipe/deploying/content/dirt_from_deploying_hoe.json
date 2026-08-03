@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "perfectprocessing:recipe_enabled",
+      "flag": "hoeDirt"
+    }
+  ],
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:coarse_dirt"
+    },
+    {
+      "tag": "minecraft:hoes"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:dirt"
+    }
+  ]
+}

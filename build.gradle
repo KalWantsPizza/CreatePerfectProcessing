@@ -196,6 +196,8 @@ dependencies {
     implementation("maven.modrinth:dzb1a5WV:lSnZyFnZ")
     // Dye Depot 2.1.0 so that colorful catalysts shuts up
     implementation("maven.modrinth:dye-depot:2.1.0")
+    // Pantographs and Wires 0.2.3
+    implementation("maven.modrinth:VzdCnMqW:CbRqaEft")
     //
     //implementation("MAVEN")
 
