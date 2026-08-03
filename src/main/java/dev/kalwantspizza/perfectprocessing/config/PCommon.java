@@ -16,7 +16,7 @@ public class PCommon extends ConfigBase {
     private final Map<String, ConfigEnum<PGems.RecipeTypeSetting>> modeFlags = new LinkedHashMap<>();
 
     public PCommon() {
-        booleanFlags.put("compactCoal", gems.CoalCompacting);
+        booleanFlags.put("coalCompact", gems.CoalCompacting);
         booleanFlags.put("copperCrushing", gems.CopperCrushing);
         booleanFlags.put("lapisHaunting", gems.LapisHaunting);
         booleanFlags.put("nickelCrushing", gems.NickelCrushing);
