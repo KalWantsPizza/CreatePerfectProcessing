@@ -134,6 +134,12 @@ dependencies {
 
     // Dependencies for Datagen
 
+    // Apple Wood, Vinery, Architectury
+    implementation("maven.modrinth:1DWmBJVA:ZywXpLC6")
+    implementation("maven.modrinth:DQXAzWtW:YiEe15qx")
+    implementation("maven.modrinth:lhGA9TYQ:1IiqEQGl")
+    // Storage Drawers 13.11.4
+    implementation ("maven.modrinth:guitPqEi:px0CCB06")
     // Deco 2.1.3
     implementation("maven.modrinth:create-deco:2.1.3")
     // Railway Navigator beta-0.9.1

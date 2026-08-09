@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "vinery"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "applewoodrebarked"
+    }
+  ],
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "applewoodrebarked:stripped_apple_wood"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "count": 6,
+      "id": "applewoodrebarked:apple_planks"
+    }
+  ]
+}

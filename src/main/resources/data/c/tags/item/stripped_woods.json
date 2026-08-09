@@ -4,6 +4,14 @@
     {
       "id": "vanillabackport:stripped_pale_oak_wood",
       "required": false
+    },
+    {
+      "id": "alpinewhispers:stripped_arolla_pine_wood",
+      "required": false
+    },
+    {
+      "id": "vinery:stripped_dark_cherry_wood",
+      "required": false
     }
   ]
 }

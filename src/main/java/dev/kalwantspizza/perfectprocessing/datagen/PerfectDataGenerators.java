@@ -29,6 +29,7 @@ public class PerfectDataGenerators {
         generator.addProvider(event.includeServer(), new PerfectPolishingRecipeGen(packOutput, lookupProvider));
         generator.addProvider(event.includeServer(), new PerfectSequencedAssemblyRecipeGen(packOutput, lookupProvider));
         generator.addProvider(event.includeServer(), new PerfectStandardRecipeGen(packOutput, lookupProvider));
+        generator.addProvider(event.includeServer(), new PerfectCuttingRecipeGen(packOutput, lookupProvider));
 
         if (event.includeServer()) {
             PerfectProcessingRecipeGen.registerAllProcessing(generator, packOutput, lookupProvider);
